@@ -4,3 +4,5 @@ Section EF-2L
 Name				Student Number
 
 Fermin Roberto G. Lapitan	xxxx-40281
+Jana Ezra V. Merlan			2013-22119
+
